@@ -1,7 +1,7 @@
 Esto_debe_SER_ID,Name,Height(m),Weight{kg},HP,Attack,Defense,Sp.Atk,Sp.Def,Type_1,Tipo_Principal
 1,Bulbasaur,0.7,6.9,45.0,49.0,49,65,65,Grass,
 2,Ivysaur,1000.0,13.0,60.0,62.0,63,80,80,Grass,
-3,Venusaur,2.0,100.0,80.0,82.0,83,100,100,Grass,Grassindo
+3,Venusaur,2.0,100.0,80.0,82.0,83,100,100,Grass,Grassindo no es grassindo
 4,Charmander,0.6,8.5,39.0,52.0,43,60,50,Fire,Categoria_extra
 5,Charmeleon,1.1,19.0,58.0,64.0,58,80,65,Fire,
 6,Charizard,1.7,90.5,78.0,84.0,78,109,85,Fire,
