@@ -9,7 +9,7 @@ Esto_debe_SER_ID,Name,Height(m),Weight{kg},HP,Attack,Defense,Sp.Atk,Sp.Def,Type_
 8,Wartortle,1.0,22.5,,63.0,80,65,80,Water,
 9,Blastoise,1.6,5000.0,79.0,83.0,100,85,105,Water,
 10,Caterpie,0.3,2.9,45.0,30.0,35,20,20,Bug,
-11,Metapod,0.7,9.9,50.0,20.0,40,25,25,Bug,
+11,Metapod,0.7,9.9,50.0,20.0,40000000,25,25,Bug,
 12,Butterfree,1.1,32.0,60.0,45.0,50,90,80,Bug,
 13,Weedle,0.3,3.2,40.0,,30,20,20,Bug,
 14,Kakuna,0.6,10.0,45.0,25.0,50,25,25,Bug,
